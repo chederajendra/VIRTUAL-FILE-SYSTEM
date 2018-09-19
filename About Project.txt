@@ -1,0 +1,8 @@
+Unix is the mother of every language
+
+This Project is based on the mainly unix base operating system to know the internal 
+Working of the File System of the Unix Operating system
+How the file operations are manipulated 
+
+basically i do some operation on file by using the datastructure of the c++
+read,write ,lseek,stat,rm,fstatand many more 
